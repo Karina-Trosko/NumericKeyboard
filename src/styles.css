@@ -42,3 +42,13 @@ input {
     color: whitesmoke;
     border: none;
 }
+
+.special_button_bcks {
+    background-color: indianred;
+    background-image: url(../src/images/arrow.png);
+    width: 80px;
+    height: 55px;
+    font-size: 25px;
+    color: whitesmoke;
+    border: none;
+}
