@@ -1,0 +1,44 @@
+body {
+    display: block;
+}
+
+table {
+    border-spacing: 8px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(238, 238, 238);
+    border: 2px solid darkgray;
+}
+
+
+/*  rename */
+
+input {
+    width: 80px;
+    height: 55px;
+    font-size: 25px;
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    border: none;
+}
+
+.input_numb_field {
+    margin: 0 auto;
+    height: 55px;
+    border: 2px solid cornflowerblue;
+    width: 298px;
+    font-size: 25px;
+    display: flex;
+    color: gray;
+    background-color: whitesmoke;
+}
+
+.special_button {
+    background-color: indianred;
+    width: 80px;
+    height: 55px;
+    font-size: 25px;
+    color: whitesmoke;
+    border: none;
+}
